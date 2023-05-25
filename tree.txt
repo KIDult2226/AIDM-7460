@@ -1,0 +1,64 @@
+Folder PATH listing
+Volume serial number is 0000028F DC00:F58B
+C:\USERS\KIDUL\AIDM-7460
+│   grid_search.py
+│   layers.py
+│   main.ipynb
+│   main.py
+│   model_train.ipynb
+│   README.md
+│   tree.txt
+│   
+├───data
+│   ├───ch
+│   │       test.pkl
+│   │       train.pkl
+│   │       val.pkl
+│   │       
+│   └───en
+│           test.pkl
+│           train.pkl
+│           val.pkl
+│           
+├───dataset
+│       codebook.txt
+│       NewsData.csv
+│       NewsFact.csv
+│       news_generated_data_final.csv
+│       
+├───external
+│       Alibaba-PuHuiTi-Medium.ttf
+│       
+├───images
+│       All Results.png
+│       Average Faults Count by Fact.png
+│       Boxplot of Faults Count by Fact.png
+│       Commentary Results by Media.png
+│       Commentary Results.png
+│       Correctness by Category.png
+│       Correctness by Commentary.png
+│       Detailed Counts of Correctness by Facts.png
+│       FScore vs Epoch.png
+│       Predicted Correctness Results.png
+│       Predicted Correctness vs Category.png
+│       Predicted Correctness vs correctness.png
+│       Predicted Results.png
+│       Wordcloud.png
+│       
+├───logs
+│   ├───json
+│   │       mdfend.json
+│   │       
+│   └───param
+│           bert_oneloss_param.txt
+│           m3fend_oneloss_param.txt
+│           mdfend_oneloss_param.txt
+│           
+├───models
+│       mdfend.py
+│       
+├───param_model
+└───utils
+        dataloader.py
+        utils.py
+        
